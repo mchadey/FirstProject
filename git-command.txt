@@ -11,3 +11,5 @@ git branch < this display your remote branch
 git commit -m "commit message" < this add a commit message before you push your code
 
 git git push < this push your changes to the remote repo
+
+these are just basic git command pls add to it 
