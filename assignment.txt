@@ -1,0 +1,33 @@
+Assignmnet
+Create a new public github code repo. Add three files to it. 
+You will need to create the code repo from your github.com account. Using the (gui), click on create new repo, give it a name, enable radme file and save it
+
+Go ahead and clone the code repo locally to your local system where git is installed
+create three files. you can use "touch" or "vi" command to do this. "vi" command will create the file and open it for edit 
+
+first-testfile.txt
+second-textfile.yml 
+thrid-textfile.json
+
+Populate each of this file with atleast 5 liines of code of your choice. Open each of the file and add lines of code of your choice. (atleast 5 lines)
+
+When done, add your changes and commit it back to your main branch 
+
+
+
+#Suggested git command you can use 
+git clone < this is used to clone a new project to your local working directory
+ 
+git status < this is used to display your status if your code has been modified or not. it display the code status
+
+git pull < this fetches any new changes from the remote online repo and merge it to your local repository before you push
+
+git add . < this add changes made to the code to the staging area before commit
+
+git branch < this display your remote branch 
+
+git commit -m "commit message" < this add a commit message before you push your code
+
+git git push < this push your changes to the remote repo
+
+these are just basic git command pls add to it 
